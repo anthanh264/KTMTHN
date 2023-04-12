@@ -27,3 +27,6 @@ Bus là đường truyền được thiết kế để kết nối các thành p
 
 	Chipset là chíp đk trung tâm trên bo mạch chủ, các mainboard có 2 chip set 
 
+/90 
+BT:
+Hệ thống CPU32bit kết nối dc tới bộ nhớ có dung lg tối đa là bn 
