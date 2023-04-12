@@ -52,4 +52,13 @@ Dựa trên công nghệ toán học việc mở rộng tính trên 2^n
  thiết kế dc truyền bus 
  - Kiểu bus - data, control, address
  - Phân xử bus: Uưu tiên - quyền dc truyền data trc 
- - Định thời: xung nhịp đồng hồ hệ thống 
+ - Định thời: xung nhịp đồng hồ hệ thống MHZ GHZ
+ 
+ các kiểu bus dành riêng, dồn kênh /105
+ Phân xử: tập trung, phân tán
+ Định thời t hiện dựa trên xung nhjip hệ thống / đồng bộ và không đồng bộ /106-111
+ Tổng kết C1
+ Phân loại MT, các tp của mt
+ T tắt giai đoạn phát triển MT
+Interupt
+I/O
