@@ -20,15 +20,20 @@ DMAC
 Bus là đường truyền được thiết kế để kết nối các thành phần rời rạc với nhau tạo ra hệ thống máy tính hoàn chỉnh
 //Tốc độ bus thể hiện tốc độ truyền data
  Có 3 kiểu BUS : 
-+ bus địa chỉ (bus address)
++ bus địa chỉ (bus address) 
 + bus data 
 + bus control
 ![](https://i.imgur.com/E7nn7Xi.png)
 
 	Chipset là chíp đk trung tâm trên bo mạch chủ, các mainboard có 2 chip set 
+#### 
 
 /90 
 BT:
 Hệ thống CPU32bit kết nối dc tới bộ nhớ có dung lg tối đa là bn 
 CPU32BIT tương ứng bit rate 32bit tương ứng 32 đg truyền (độ rộng)
 => Bộ nhớ tối đa là 2^32 byte
+Ttự vs hệ thống CPU64BIT => Bộ nhớ tối đa bằng 2^64 byte
+
+### BUS data /91 
+ngta mở rộng bus data nhằm mục đích gì, vì sao việc mở rộng có limit 
