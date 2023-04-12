@@ -43,3 +43,13 @@ Dựa trên công nghệ toán học việc mở rộng tính trên 2^n
  chuyển các tín hiệu điều khiển 
  -> các loại tín hiệu điều khiển đọc ghi, interrupt, bus
  1 số tín hiện đk cpu / t khảo trang 93
+ Phân loại bus trong MT  - T 97 
+ BUS in cpu 
+ bus in ram 
+ bus in i/o
+ tham khảo 1 số bảng mạch chủ - công nghệ intel 
+ 99-103
+ thiết kế dc truyền bus 
+ - Kiểu bus - data, control, address
+ - Phân xử bus: Uưu tiên - quyền dc truyền data trc 
+ - Định thời: xung nhịp đồng hồ hệ thống 
