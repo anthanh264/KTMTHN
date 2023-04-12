@@ -30,3 +30,4 @@ Bus là đường truyền được thiết kế để kết nối các thành p
 /90 
 BT:
 Hệ thống CPU32bit kết nối dc tới bộ nhớ có dung lg tối đa là bn 
+CPU32BIT tương ứng bit rate 32bit tương ứng 32 đg truyền (độ rộng)
