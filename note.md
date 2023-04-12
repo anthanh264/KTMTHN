@@ -37,3 +37,9 @@ Ttự vs hệ thống CPU64BIT => Bộ nhớ tối đa bằng 2^64 byte
 
 ### BUS data /91 
 ngta mở rộng bus data nhằm mục đích gì, vì sao việc mở rộng có limit 
+để xử lí dữ liệu nhanh hơn, truyề dữ liệu giữa các thành phần nhanh hơn đáp ứng dc tốc độ cao của CPU
+Dựa trên công nghệ toán học việc mở rộng tính trên 2^n 
++ BUS CONTROL /92
+ chuyển các tín hiệu điều khiển 
+ -> các loại tín hiệu điều khiển đọc ghi, interrupt, bus
+ 1 số tín hiện đk cpu / t khảo trang 93
