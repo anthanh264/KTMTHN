@@ -27,3 +27,9 @@
   + Thanh ghi đa năng: có thể chứa địa chỉ hoặc dữ liệu.
   + Thanh ghi điều khiển/trạng thái: chứa các thông tin điều khiển và trạng thái của CPU.
   + Thanh ghi lệnh: chứa lệnh đang được thực hiện
+- Một số thanh ghi điển hình
+- Bộ đếm chương trình PC
+  + Còn được gọi là con trỏ lệnh IP (Instruction Pointer)
+  + Giữ địa chỉ của lệnh tiếp theo sẽ được nhận vào.
+  + Sau khi một lệnh được nhận vào, nội dung PC tự động tăng để trỏ sang lệnh kế tiếp.
+- Stack
